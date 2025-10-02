@@ -1,4 +1,4 @@
-# bperez_225a
+# Barbara Perez
 
 This is my repo for BMS 225A. My work is organized as follows:
 - `code` All scripts used in analysis
